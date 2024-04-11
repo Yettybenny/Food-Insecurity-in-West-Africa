@@ -2,6 +2,9 @@
 ---
 # PROJECT OVERVIEW
 
+![Image 2](https://github.com/Yettybenny/Food-Insecurity-in-West-Africa/assets/145848340/34753d09-ade9-4f9e-97a4-702610c15059)
+
+
 - Addressing food insecurity and malnutrition is crucial for improving health outcomes and achieving Sustainable Development Goal 2 (Zero Hunger), particularly in West Africa.
 
 
@@ -16,15 +19,21 @@ Food insecurity refers to limited access to food, at the level of individuals or
 
 ## Dataset Metrics
 ---
+
 - Malnutrition (stunting, wasting, severe wasting, overweight,and underweight) in children in West African Countries
 - Malnutrition by country income classification
 - Malnutrition by LLDC and SIDS
 - Malnutrition by country population
 
+
+![insecurity visuals 2](https://github.com/Yettybenny/Food-Insecurity-in-West-Africa/assets/145848340/e2aca1f4-2068-46eb-b63c-258f57a5a89e)
+
+![insecurity visuals](https://github.com/Yettybenny/Food-Insecurity-in-West-Africa/assets/145848340/00c156f8-90fe-4a77-ada0-3e7b33abfa69)
+
 ## Tools
 ---
 - Power BI
-
+- D.A.X
 
 ## Methodology
 ---
