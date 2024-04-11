@@ -24,12 +24,13 @@ Food insecurity refers to limited access to food, at the level of individuals or
 - Malnutrition by country income classification
 - Malnutrition by LLDC and SIDS
 - Malnutrition by country population
-
+### Abbreviations
+- LLDC: Landlocked Developing Country
+- SIDS: Small Island Developing States
 
 ![insecurity visuals 2](https://github.com/Yettybenny/Food-Insecurity-in-West-Africa/assets/145848340/e2aca1f4-2068-46eb-b63c-258f57a5a89e)
 
 ![insecurity visuals](https://github.com/Yettybenny/Food-Insecurity-in-West-Africa/assets/145848340/00c156f8-90fe-4a77-ada0-3e7b33abfa69)
-
 ## Tools
 ---
 - Power BI
