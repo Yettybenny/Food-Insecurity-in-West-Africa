@@ -2,7 +2,8 @@
 ---
 # PROJECT OVERVIEW
 
-![Image 2](https://github.com/Yettybenny/Food-Insecurity-in-West-Africa/assets/145848340/34753d09-ade9-4f9e-97a4-702610c15059)
+
+![Image 2](https://github.com/Yettybenny/Food-Insecurity-in-West-Africa/assets/145848340/d33b664f-e802-49d5-9461-97d159bfe0c3)
 
 
 - Addressing food insecurity and malnutrition is crucial for improving health outcomes and achieving Sustainable Development Goal 2 (Zero Hunger), particularly in West Africa.
